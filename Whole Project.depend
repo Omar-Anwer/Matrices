@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1560872271 source:c:\users\star\desktop\whole project\main.cpp
+	<iostream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+	<sstream>
+	<cmath>
+
+1588295247 source:c:\users\star\desktop\tech\programming\mycodes\matrix project\whole project\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<stdlib.h>
+	<sstream>
+	<cmath>
+
