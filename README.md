@@ -1,2 +1,3 @@
 # Matrices
-i made this project in 1st electrical year 2019
+A program executes some of the basic operations of matrices in MATLAB format,
+such as addition, subtraction, multiplication and determinant operations.
